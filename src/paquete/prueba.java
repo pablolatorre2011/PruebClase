@@ -10,7 +10,7 @@ public class prueba {
 		int x, y;
 		x = 2; 
 		y = 5;
-		System.out.println(x/y);
+		System.out.println(y/x);
 	}
 
 }
